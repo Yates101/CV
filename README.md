@@ -11,7 +11,7 @@ _Junior Software Engineer based in Bristol, UK_ <br>
 [Education ](#education) |
 [Interests ](#interests)
 
-## 📝 Profile
+## 🖋️ Profile
 
 I have always had a general interest in tech and, since I started to delve in to software development, I've found it occupies the perfect bridge between logical rational and artistic license, that suits me down to a tee.
 I have demonstrable experience excelling in large or small projects across a variety of disciplines and I strive to best utilise the skills I have or leverage my adaptability to expand upon them.
@@ -38,7 +38,7 @@ I have always prided myself on my ability to build rapport with individuals from
 
 Many of my own interests are those that demand quick thinking and logical breakdown of puzzles. For example, I have both volunteered and worked in multiple construction environments. In my experience, if you're ont he hunt for problems, they have an affinity for popping up on site. However, I've always revelled in the challenge of breaking down a problem to its elements and calculating a rational approach to solving each hburdle, in turn. I believe it's because of this that I found de-bugging to be an element of software development that came very naturally to me.
 
-## Work Experience
+## 📝 Work Experience
 
 **Traffic Team Supervisor** @ NHS England (_Aug 2020 - Feb 2021_)
 - Applied strong leadership talents and problem-solving skills to maintain team efficiency and organize workflows.
