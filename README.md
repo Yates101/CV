@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Alec Yates
 
-You can use the [editor on GitHub](https://github.com/Yates101/CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Junior Software Engineer based in Bristol, UK_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:alecyates94@gmail.com) / [Portfolio Site](https://yates101.github.io/) / [LinkedIn](https://www.linkedin.com/in/alec-yates-41957618b/) / [GitHub](https://github.com/Yates101)
+  
+[Profile](#profile) |
+[Projects ](#projects) |
+[Skills ](#skills) |
+[Experience ](#experience) |
+[Education ](#education) |
+[Interests ](#interests)
 
-### Markdown
+# Profile
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have always had a general interest in tech and, since I started to delve in to software development, I've found it occupies the perfect bridge between logical rational and artistic license, that suits me down to a tee.
+I have demonstrable experience excelling in large or small projects across a variety of disciplines and I strive to best utilise the skills I have or leverage my adaptability to expand upon them.
 
-```markdown
-Syntax highlighted code block
+# Projects
 
-# Header 1
-## Header 2
-### Header 3
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| [Reclaim Frontend](https://github.com/jackmcc08/ladz-reclaim-react-fe), [Reclaim Backend](https://github.com/willspencer16/reclaim_api) | A loyalty card application that rewards users for recycling packaging. | React.js, React Router, JQuery, Axios, PostgreSQL, Heroku
+| [Acebook Front-end](https://github.com/Yates101/Insert-Team-Name-react-native), [Acebook Back-end](https://github.com/StuBehan/acebook-insert-team-name-here) | A Facebook clone with a Ruby-on-Rails/PostgreSQL API backend and a Node/React Native iOS frontend. Back-end deployed on Heroku using Travis-CI | React native, Axios, Ruby-on_rails, pg, bcrypt, RSpec, rack-cors, faker, factory-bot |
+| [What's My Thing Frontend](https://github.com/denriquem/whatsMyThing), [What's My Thing Backend](https://github.com/Yates101/WhatsMyThing-BackEnd) | Ongoing MERN stack project in which users can upload and guess at the nature of obscure pictures. | React.js, Mongo, Express, Node.js |
 
-- Bulleted
-- List
+# Skills
 
-1. Numbered
-2. List
+### Highly Adaptable
 
-**Bold** and _Italic_ and `Code` text
+### Excellent Comunicator
 
-[Link](url) and ![Image](src)
-```
+### Proficient Problem Solver
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Experience
 
-### Jekyll Themes
+# Education
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yates101/CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Interests
