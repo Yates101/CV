@@ -37,7 +37,7 @@ I have always prided myself on my ability to build rapport with individuals from
 
 ### Proficient Problem Solver
 
-Many of my own interests are those that demand quick thinking and logical breakdown of puzzles. For example, I have both volunteered and worked in multiple construction environments. In my experience, if you're ont he hunt for problems, they have an affinity for popping up on site. However, I've always revelled in the challenge of breaking down a problem to its elements and calculating a rational approach to solving each hburdle, in turn. I believe it's because of this that I found de-bugging to be an element of software development that came very naturally to me.
+Many of my own interests are those that demand quick thinking and logical breakdown of puzzles. For example, I have both volunteered and worked in multiple construction environments. In my experience, if you're on the hunt for problems, they have an affinity for popping up on site. However, I've always loved the challenge of breaking down a problem to its elements and calculating a rational approach to solving each hurdle, in turn. I believe it's because of this that I found de-bugging to be an element of software development that came very naturally to me.
 
 ## 📝 Work Experience
 
