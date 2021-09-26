@@ -4,11 +4,11 @@ _Junior Software Engineer based in Bristol, UK_ <br>
 
 [Email](mailto:alecyates94@gmail.com) / [Portfolio Site](https://yates101.github.io/) / [LinkedIn](https://www.linkedin.com/in/alec-yates-41957618b/) / [GitHub](https://github.com/Yates101)
   
-[Profile](#-profile) |
-[Projects ](#-projects) |
-[Experience ](#-experience) |
-[Education ](#-education) |
-[Interests ](#-interests)
+[Profile](#Profile) |
+[Projects ](#Projects) |
+[Experience ](#Experience) |
+[Education ](#Education) |
+[Interests ](#Interests)
 
 ## 🖋️ Profile
 
