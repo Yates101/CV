@@ -10,7 +10,7 @@ I have always loved existing between the worlds of practicality and art. Whether
 
 To this end I have recently completed [Makers Academy](https://github.com/makersacademy) 12 week intensive bootcamp, where I learned the fundamentals of good coding practice and how to contribute effectively within team. Finding a company that values these assets and creates a supportive environment are my greatest prioority as I search for my next role as a junior developer.
 
-## Projects 📂
+## 📂 Projects 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
