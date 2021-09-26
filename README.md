@@ -10,13 +10,13 @@ _Junior Software Engineer based in Bristol, UK_ <br>
 [Education ](#education) |
 [Interests ](#interests)
 
-## 🖋️ Profile
+## Profile 🖋️
 
 I have always loved existing between the worlds of practicality and art. Whether I'm building a shed from the ground up, or watching the creative flair of a theatre troupe snowball and expand - I revel in harnessing the world around me to build and explore. As such, when I found myself looking for a new challenge, software development perfectly encompassed that creativity, collaboration and rationale that I've always pursued in life.
 
 To this end I have recently completed [Makers Academy](https://github.com/makersacademy) 12 week intensive bootcamp, where I learned the fundamentals of good coding practice and how to contribute effectively within team. Finding a company that values these assets and creates a supportive environment are my greatest prioority as I search for my next role as a junior developer.
 
-## 📂 Projects
+## Projects 📂
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
