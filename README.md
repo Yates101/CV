@@ -1,6 +1,6 @@
 # Alec Yates
 
-_Junior Software Engineer based in Bristol, UK_ <br>
+_Software Engineer based in Bristol, UK_ <br>
 
 [Email](mailto:alecyates94@gmail.com) / [Portfolio Site](https://yates101.github.io/) / [LinkedIn](https://www.linkedin.com/in/alec-yates-41957618b/) / [GitHub](https://github.com/Yates101)
   
@@ -52,6 +52,7 @@ To this end I have recently completed [Makers Academy](https://github.com/makers
 ## 🤔 Interests
 
 - 🧗 Climbing
+- 🏄 Surfing
 - 🚴 Cycling
 - 🪓 Carpentry
 
